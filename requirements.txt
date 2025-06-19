@@ -1,0 +1,7 @@
+azure-functions
+azure-cosmos
+openai
+python-docx
+reportlab
+python-dotenv
+azure-functions-durable
